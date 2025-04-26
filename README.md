@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="35%" align="right" alt="Github" src="[https://via.placeholder.com/300x100.png?text=I+Love+Python](https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg)" />
+<img width="35%" align="right" alt="Github" src="https://cdn.pixabay.com/photo/2017/08/25/13/36/code-geek-2680204_1280.png" />
 
 - :telescope: I love writing software 
 - 👨🏽‍💻 I have succsessfully passed the Python Basics, Python Fundamentals and I am currently going trough Python Advance and OOP modules at SoftUni; 
