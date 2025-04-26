@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa4e2a5-78d4-4924-8c60-6e53429eaf65/d9q89e0-24ee6f33-7f7b-45ed-9dd9-bc280d7ea71e.png/v1/fill/w_1192,h_670,q_70,strp/python_programming_language_wallpaper_by_dollarakshay_d9q89e0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2FhYTRlMmE1LTc4ZDQtNDkyNC04YzYwLTZlNTM0MjllYWY2NVwvZDlxODllMC0yNGVlNmYzMy03ZjdiLTQ1ZWQtOWRkOS1iYzI4MGQ3ZWE3MWUucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XGgZHOIiIbtyIZ-hk0yl02Yx7dEm7oQjQbxKho16klI)" />
+<img width="55%" align="right" alt="Github" src="https://via.placeholder.com/300x100.png?text=I+Love+Python" />
 
 - :telescope: I love teaching on software engineering students as well as writing software 
 - 👨🏽‍💻 Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety);
