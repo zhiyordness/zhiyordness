@@ -3,7 +3,6 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Facebook](https://www.facebook.com/jivomir.j.todorov)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhivomiryordanov@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=zhiyord&color=green)
 
