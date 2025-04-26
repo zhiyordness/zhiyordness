@@ -15,11 +15,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="35%" align="right" alt="Github" src="[https://via.placeholder.com/300x100.png?text=I+Love+Python](https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg)" />
 
-- :telescope: I love teaching on software engineering students as well as writing software 
-- 👨🏽‍💻 Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety);
-- 🌱 I am the founder of one of the largest fan groups dedicated to the Python programming language [Python Dev Society](https://www.facebook.com/PythonDevSociety); 
-- :zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
-- 📫 You can get in touch with me by email at: webbersof@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
+- :telescope: I love writing software 
+- 👨🏽‍💻 I have succsessfully passed the Python Basics, Python Fundamentals and I am currently going trough Python Advance and OOP modules at SoftUni; 
+- :zap: I spend each epare minute of my time to code and plan future projects.
+- 📫 You can get in touch with me by email at: zhivomiryordanov@gmail.com and [Facebook](https://www.facebook.com/jivomir.j.todorov)
 
 <br/><br/>
 
