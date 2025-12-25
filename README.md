@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="35%" align="right" alt="Github" src="https://cdn.pixabay.com/photo/2017/08/25/13/36/code-geek-2680204_1280.png" />
 
 - :telescope: I love writing software 
-- 👨🏽‍💻 I have succsessfully passed the Python Basics, Python Fundamentals and I am currently going trough Python Advance and OOP modules at SoftUni; 
+- 👨🏽‍💻 I have succsessfully passed the Python Basics, Python Fundamentals, Pyhton Advances and OOP, Data Bases and I am currently going trough Python Web module at SoftUni; 
 - :zap: I spend each epare minute of my time to code and plan future projects.
 - 📫 You can get in touch with me by email at: zhivomiryordanov@gmail.com and [Facebook](https://www.facebook.com/jivomir.j.todorov)
 
